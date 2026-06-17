@@ -1,5 +1,6 @@
 # sui-move-learning
 
+Day 1:
 Sui Move: Learning in Public
 
 Welcome to my journey of mastering the **Sui Blockchain** and the **Move Programming Language** from absolute scratch. 
@@ -11,3 +12,19 @@ sui-move-learning
 
 2026 Goal:
 Become a recognized Sui ecosystem developer.
+
+#############################################################################################################################################
+
+Day 2 of learning Sui 🚀
+
+Today's topic: Sui Object Model
+
+My understanding so far:
+
+• Assets and on-chain state in Sui are represented as objects.
+• Each object has a unique ID (UID).
+• Objects can be owned, transferred, or shared.
+• Ownership is tracked on-chain, helping assets remain unique and secure.
+
+One thing that stands out to me is how Sui treats assets as objects with ownership, rather than just balances stored inside a smart contract.
+
